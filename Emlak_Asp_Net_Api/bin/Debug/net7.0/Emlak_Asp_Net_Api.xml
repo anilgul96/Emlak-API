@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Emlak_Asp_Net_Api</name>
+    </assembly>
+    <members>
+        <member name="M:Emlak_Asp_Net_Api.Controllers.tbl_ilanlarController.Gettbl_ilanlar">
+            <summary>
+            TÜM İLANLARI GETİRME İŞLEMİ
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Emlak_Asp_Net_Api.Controllers.tbl_ilanlarController.Gettbl_ilanlar(System.Int32)">
+            <summary>
+            İLAN BULMA İŞLEMİ
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Emlak_Asp_Net_Api.Controllers.tbl_ilanlarController.Puttbl_ilanlar(System.Int32,Emlak_Asp_Net_Api.Models.tbl_ilanlar)">
+            <summary>
+            İLAN DÜZENLEME İŞLEMİ
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Emlak_Asp_Net_Api.Controllers.tbl_ilanlarController.Posttbl_ilanlar(Emlak_Asp_Net_Api.Models.tbl_ilanlar)">
+            <summary>
+            İLAN EKLEME İŞLEMİ
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Emlak_Asp_Net_Api.Controllers.tbl_ilanlarController.Deletetbl_ilanlar(System.Int32)">
+            <summary>
+            İLAN SİLME İŞLEMİ
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Emlak_Asp_Net_Api.Controllers.tbl_kategorilerController.Gettbl_kategoriler">
+            <summary>
+            TÜM KATEGORİLERİ GETİRME İŞLEMİ
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Emlak_Asp_Net_Api.Controllers.tbl_kategorilerController.Gettbl_kategoriler(System.Int32)">
+            <summary>
+            KATEGORİ BULMA İŞLEMİ
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Emlak_Asp_Net_Api.Controllers.tbl_kategorilerController.Puttbl_kategoriler(System.Int32,Emlak_Asp_Net_Api.Models.tbl_kategoriler)">
+            <summary>
+            KATEGORİ DÜZENLEME İŞLEMİ
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Emlak_Asp_Net_Api.Controllers.tbl_kategorilerController.Posttbl_kategoriler(Emlak_Asp_Net_Api.Models.tbl_kategoriler)">
+            <summary>
+            KATEGORİ EKLEME İŞLEMİ
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Emlak_Asp_Net_Api.Controllers.tbl_kategorilerController.Deletetbl_kategoriler(System.Int32)">
+            <summary>
+            KATEGORİ SİLME İŞLEMİ
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Emlak_Asp_Net_Api.Controllers.tbl_kategorilerController.GetIlanlarByKategori(System.Int32)">
+            <summary>
+            VERİLEN KATEGORİDEKİ İLANLARIN GETİRİLMESİ İŞLEMİ
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Emlak_Asp_Net_Api.Controllers.tbl_kullanicilarController.Gettbl_kullanicilar">
+            <summary>
+            TÜM KULLANICILARI GETİRME İŞLEMİ
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Emlak_Asp_Net_Api.Controllers.tbl_kullanicilarController.Gettbl_kullanicilar(System.Int32)">
+            <summary>
+            KULLANICI BULMA İŞLEMİ
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Emlak_Asp_Net_Api.Controllers.tbl_kullanicilarController.Puttbl_kullanicilar(System.Int32,Emlak_Asp_Net_Api.Models.tbl_kullanicilar)">
+            <summary>
+            KULLANICI DÜZENLEME İŞLEMİ
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Emlak_Asp_Net_Api.Controllers.tbl_kullanicilarController.Posttbl_kullanicilar(Emlak_Asp_Net_Api.Models.tbl_kullanicilar)">
+            <summary>
+            KULLANICI EKLEME İŞLEMİ
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Emlak_Asp_Net_Api.Controllers.tbl_kullanicilarController.Deletetbl_kullanicilar(System.Int32)">
+            <summary>
+            KULLANICI SİLME İŞLEMİ
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Emlak_Asp_Net_Api.Controllers.tbl_turlerController.Gettbl_turler">
+            <summary>
+            TÜM TÜRLERİ ALMA İŞLEMİ
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Emlak_Asp_Net_Api.Controllers.tbl_turlerController.Gettbl_turler(System.Int32)">
+            <summary>
+            TÜR BULMA İŞLEMİ
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Emlak_Asp_Net_Api.Controllers.tbl_turlerController.Puttbl_turler(System.Int32,Emlak_Asp_Net_Api.Models.tbl_turler)">
+            <summary>
+            İLAN DÜZENLEME İŞLEMİ
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Emlak_Asp_Net_Api.Controllers.tbl_turlerController.Posttbl_turler(Emlak_Asp_Net_Api.Models.tbl_turler)">
+            <summary>
+            TÜR EKLEME İŞLEMİ
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Emlak_Asp_Net_Api.Controllers.tbl_turlerController.Deletetbl_turler(System.Int32)">
+            <summary>
+            TÜR SİLME İŞLEMİ
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Emlak_Asp_Net_Api.Migrations.DbInit">
+            <inheritdoc />
+        </member>
+        <member name="M:Emlak_Asp_Net_Api.Migrations.DbInit.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Emlak_Asp_Net_Api.Migrations.DbInit.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Emlak_Asp_Net_Api.Migrations.DbInit.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
