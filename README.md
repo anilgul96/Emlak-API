@@ -1,7 +1,7 @@
 # Emlak-API
 
 
-.Net Core çatısı içerisinde MySQL ile oluşturuldu.
+Asp.Net Core çatısı içerisinde MySQL ile oluşturuldu.
 
 
 ![veriTabaniSemasi](https://user-images.githubusercontent.com/115142182/236683820-48d54949-8e4b-4083-b604-1d1c60596d3f.png)
