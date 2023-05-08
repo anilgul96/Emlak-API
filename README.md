@@ -4,7 +4,9 @@
 Asp.Net Core çatısı içerisinde MySQL ile oluşturuldu.
 
 Kullanıcı Yetkilendirme: Bu bileşen, API kullanıcılarının kimlik doğrulama işlemlerini gerçekleştirir.
+
 Emlak İlanlarının Filtre Türe göre Filtre Edilmesi: Bu bileşen, emlak ilanlarını aramak, filtrelemek ve listelemek için kullanılır.
+
 İlanların Kategorize Edilmesi: Bu bileşen, ilanı kategoriye göre filtrelemek, aramak ve listelemek için kullanılır.
 
 ![veriTabaniSemasi](https://user-images.githubusercontent.com/115142182/236683820-48d54949-8e4b-4083-b604-1d1c60596d3f.png)
