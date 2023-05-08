@@ -1,7 +1,7 @@
 # Emlak-API
 
 
-Asp.Net Core çatısı içerisinde MySQL ile oluşturuldu.
+Asp.Net Core 7 çatısı içerisinde MySQL ile oluşturuldu.
 
 Kullanıcı Yetkilendirme: Bu bileşen, API kullanıcılarının kimlik doğrulama işlemlerini gerçekleştirir.
 
